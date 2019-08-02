@@ -1,0 +1,2 @@
+# Software-Project-Management
+The above files were submitted in coursework for CPEN 523 - Software Project Managment. In Estimation submission, a multi-pronged approach was used to estimate the size of the project, the associated effort, size of the team, and therefore duration. Estimation was done both by analogy and proxy. Priortization exercise was to adjust tasks and features to come up with a reduced product could be put to market with a lesser budget.In the end, an initial software development plan was drafted (SDP) for the software project.
